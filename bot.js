@@ -26,3 +26,5 @@ client.on('message', message => {
 
 // Start the bot
 client.initialize();
+setInterval(() => {}, 1000);
+
